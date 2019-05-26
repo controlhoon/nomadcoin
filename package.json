@@ -1,0 +1,13 @@
+{
+  "name": "nomadcoin",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "license": "MIT",
+  "description": "노마드코인, NodeJS로 만든 첫번째 awesome coin",
+  "repository": "https://github.com/controlhoon/nomadcoin",
+  "author": "controlhoon <rksekqldk123@gmail.com>",
+  "private": false,
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
